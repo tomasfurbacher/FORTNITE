@@ -1,7 +1,10 @@
 *.ss~
 *.ss#*
 .#*.ss
+$ git cofing --global user.name  "jokerik77"      
+$ git cofing --global user.email "lich@post.cz" 
+$ v-bucks-"gift 20,000 -v-bucks " globál uzivatel .nazev "jokerik77"
 
-*.scm~
+*
 *.scm#*
 .#*.scm
